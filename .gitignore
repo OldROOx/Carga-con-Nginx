@@ -1,0 +1,7 @@
+*.pem
+*.key
+*.log
+.env
+node_modules/
+*.pdf
+evidencias/
